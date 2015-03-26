@@ -1,11 +1,9 @@
 " Vim syntax file
 " Language:	sed
-" Maintainer:	Haakon Riiser <hakonrk@fys.uio.no>
-" URL:		http://folk.uio.no/hakonrk/vim/syntax/sed.vim
-" Last Change:	2010 May 29
+" Maintainer:	Benoit Hiller <benoit.hiller@gmail.com>
+" URL:		https://github.com/StephenHamilton/extended_syntax
+" Last Change:	2015 March 26
 
-" For version 5.x: Clear all syntax items
-" For version 6.x: Quit when a syntax file was already loaded
 if version < 600
     syn clear
 elseif exists("b:current_syntax")
