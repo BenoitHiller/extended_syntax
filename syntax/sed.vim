@@ -3,6 +3,8 @@
 " Maintainer:	Benoit Hiller <benoit.hiller@gmail.com>
 " URL:		https://github.com/StephenHamilton/extended_syntax
 " Last Change:	2015 March 26
+" Notes:        This file is derived from the original included with vim,
+"               which is maintained by Haakon Riiser <hakonrk@fys.uio.no>.
 
 if version < 600
     syn clear
