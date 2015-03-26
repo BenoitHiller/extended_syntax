@@ -99,7 +99,6 @@ if version >= 508 || !exists("did_sed_syntax_inits")
     HiLink sedFlag Type
     HiLink sedFlagwrite Constant
     HiLink sedCode Constant
-    HiLink sedExitCode Constant
     HiLink sedFunction Function
     HiLink sedLabel Label
     HiLink sedLineCont Special
@@ -111,7 +110,6 @@ if version >= 508 || !exists("did_sed_syntax_inits")
     HiLink sedST Function
     HiLink sedSpecial Special
     HiLink sedWhitespace NONE
-    HiLink sedText NONE
     if exists("highlight_sedtabs")
         HiLink sedTab Todo
     endif
