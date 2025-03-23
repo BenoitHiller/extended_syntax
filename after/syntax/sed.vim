@@ -7,8 +7,8 @@
 " This file depends on and modifies the included vim sed syntax highlighting
 
 " because this is just for the GNU sed we don't want to do anything if the
-" user has explicitly said they are using bsd sed.
-if exists("g:sed_dialect") && g:sed_dialect ==? "bsd"
+" user has explicitly said they are using a different dialect.
+if exists("g:sed_dialect") && g:sed_dialect !=? "gnu"
   finish
 endif
 
