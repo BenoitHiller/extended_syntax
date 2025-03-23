@@ -1,8 +1,8 @@
 " Vim syntax file
-" Language:	sed
-" Maintainer:	Benoit Hiller <benoit.hiller@gmail.com>
-" URL:		https://github.com/BenoitHiller/extended_syntax
-" Last Change:	2025 March 23
+" Language: sed
+" Maintainer: Benoit Hiller <benoit.hiller@gmail.com>
+" URL: https://github.com/BenoitHiller/vim-gsed
+" Last Change: 2025 March 23
 
 " This file depends on and modifies the included vim sed syntax highlighting
 
