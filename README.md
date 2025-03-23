@@ -1,6 +1,6 @@
 # vim-gsed
 
-I have added highlighting for a number of features added to sed as GNU extensions. Most of the GNU sed extensions are not present in the `syntax/sed.vim` which ships with vim.
+Adds support for all of the GNU sed extensions to the included `syntax/sed.vim` syntax highlighting.
 
 ## Installation
 
